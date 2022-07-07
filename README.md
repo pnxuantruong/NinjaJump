@@ -1,5 +1,8 @@
 # NinjaJump
 This is my game using react native CLI to build
+
+## Demo in ninja_jump_demo.mp4
+
 ## Packages
 * React Native Track Package
 
