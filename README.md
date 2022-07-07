@@ -28,6 +28,19 @@ module.exports = async function () {
 
 Make sure to follow the installation [here](https://reactnavigation.org/docs/getting-started)
 
+Also need to install @react-navigation/native-stack
+
+npm:
+```sh
+npm install @react-navigation/native-stack
+```
+
+Yarn:
+```sh
+yarn add @react-navigation/native-stack
+```
+
+
 * React Native Async Storage
 
 AsyncStorage has been extracted from react-native core. It can now be installed and imported from @react-native-community/async-storage instead of 'react-native'.
