@@ -3,6 +3,8 @@ This is my game using react native CLI to build
 ## Packages
 * React Native Track Package
 
+Installation [here](https://react-native-track-player.js.org/docs/basics/installation)
+
 Add this to index.js file
 ```sh
 // AppRegistry.registerComponent(...);
@@ -21,7 +23,6 @@ module.exports = async function () {
 }
 ```
 
-Installation [here](https://react-native-track-player.js.org/docs/basics/installation)
 
 * React Navigation
 
